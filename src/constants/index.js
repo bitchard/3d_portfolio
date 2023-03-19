@@ -198,25 +198,25 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Light/Dark Theme Website",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "At first glance a very simple website with the ability for the user to click the toggle switch and watch as the site switches from light to dark. But upon further inspection, you will come to appreciate the detail in the JavaScript that allows all the pieces to come together and function as one fluid piece. Enjoy!",
     tags: [
       {
-        name: "react",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "css",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "javascript",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://bitchard.github.io/light-dark-theme-website/",
   },
   {
     name: "Job IT",
