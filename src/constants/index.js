@@ -219,9 +219,9 @@ const projects = [
     source_code_link: "https://bitchard.github.io/light-dark-theme-website/",
   },
   {
-    name: "Job IT",
+    name: "Picture-in-Picture-Website",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "An application that allows the users to work on their main screen while the second screen is on top of all others and allows the user the ability to resize, move and control it. Added just a bit of style to make the button a little more interesting. This involved a little more JavaScript. From the API for the screen capture to the catch/try statement. Hope ppl can find it just as handy as I do. Enjoy!",
     tags: [
       {
         name: "react",
@@ -237,7 +237,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://bitchard.github.io/picture-in-picture/",
   },
   {
     name: "Trip Guide",
